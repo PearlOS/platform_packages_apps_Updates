@@ -75,7 +75,7 @@
             android:singleLine="true"
             android:textColor="?android:textColorSecondary"
             android:textSize="18sp"
-            tools:text="PixelExperience_device-10.0-20200115-2020-OFFICIAL.zip" />
+            tools:text="PearlOS-v1.x-20200531-0250-device-Official.zip" />
 
         <TextView
             android:id="@+id/build_date"
